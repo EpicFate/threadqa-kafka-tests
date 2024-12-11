@@ -20,7 +20,7 @@ dependencies {
     implementation 'io.confluent:kafka-schema-registry:5.1.1:tests'
     implementation 'io.confluent:kafka-schema-registry:5.1.1'
 
-    implementation 'org.apache.kafka:kafka-clients:2.6.0:test'
+    implementation 'org.apache.kafka:kafka-clients:1.1.1:test'
 
     implementation 'org.apache.kafka:kafka_2.11:2.1.1:test'
     implementation 'org.apache.kafka:kafka_2.11:2.1.1'
